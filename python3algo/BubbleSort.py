@@ -16,3 +16,5 @@ def bubble(list_a):
 	return list_a
 
 print(bubble([4,5,7,1,4,6,8,1,4,5,9,6,8,4,6,3,8,9,4]))
+
+
